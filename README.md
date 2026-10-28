@@ -24,7 +24,7 @@ python3 -m http.server 8000
 4. 等待 1~2 分钟，绿色提示出现后，即可通过以下地址访问：
 
    ```
-   https://king.github.io/math-consistency/
+   https://king18074928678.github.io/math-consistency/
    ```
 
 > 提示：如果把仓库名直接命名为 `<你的GitHub用户名>.github.io`，则访问地址为 `https://<你的GitHub用户名>.github.io/`（无需带仓库名）。
